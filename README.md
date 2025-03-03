@@ -1,5 +1,5 @@
 ---
-title: Gradio Chatbot
+title: FlightAI
 emoji: 💬
 colorFrom: yellow
 colorTo: purple
